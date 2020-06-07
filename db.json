@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "product name",
-      "category": "category name"
+      "categoryid": "category name"
     }
   ],
   "client": [
