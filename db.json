@@ -17,5 +17,9 @@
     "id": 1,
     "productId":1,
     "clientId":1
+  },
+  "category":{
+    "id":1,
+    "name":"category name"
   }
 }
