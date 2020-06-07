@@ -1,19 +1,21 @@
 {
-  "posts": [
+  "product": [
     {
       "id": 1,
       "title": "json-server",
-      "author": "typicode"
+      "category": "typicode"
     }
   ],
-  "comments": [
+  "client": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "some comment",
+      "document": "123123123"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "salle": {
+    "id": 1,
+    "productId":1,
+    "clientId":1
   }
 }
