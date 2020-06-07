@@ -18,4 +18,4 @@ npm start
 
 Depois, acesse http://localhost:3000 e pronto!
 
-Já estão prontas os modelos "product", "client" e "salle" e alterando o [db.json](https://github.com/ivanltds/jsonServer/blob/master/db.json) você pode criar ou alterar esses modelos. 
+Já estão prontas os modelos "product", "client" e "salle" e alterando o [db.json](https://github.com/ivanltds/jsonServer/blob/master/db.json) você pode criar ou alterar esses modelos. Alem disso, alterando no arquivo [package.json](https://github.com/ivanltds/jsonServer/blob/master/package.json) o "start", você tambem consegue apontar e ouvir outros arquivos de db. 
