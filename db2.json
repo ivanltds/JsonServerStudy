@@ -1,0 +1,19 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "student name"
+    }
+  ],
+  "school": [
+    {
+      "id": 1,
+      "name": "school name"
+    }
+  ],
+  "class": {
+    "id": 1,
+    "studentId":1,
+    "schoolId":1
+  }
+}

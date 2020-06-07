@@ -2,14 +2,14 @@
   "product": [
     {
       "id": 1,
-      "title": "json-server",
-      "category": "typicode"
+      "title": "product name",
+      "category": "category name"
     }
   ],
   "client": [
     {
       "id": 1,
-      "name": "some comment",
+      "name": "client name",
       "document": "123123123"
     }
   ],
